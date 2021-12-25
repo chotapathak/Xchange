@@ -14,7 +14,7 @@ Covers:
 
 Currently It's just shows how much DAI you get on swaping 1 ETH
 
-## Instalation
+## Installation
 
 ```
 npm install @uniswap/sdk
