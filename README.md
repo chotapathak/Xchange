@@ -4,7 +4,6 @@ Blockchain basics Tasks . Learning how to build Decentralized
 Applications (Dapps) on Ethereum and Solidity Smart contracts
 
 Covers:
-* Solidity
 * Web3
 * DeFi (Decentralized Finance)
 
