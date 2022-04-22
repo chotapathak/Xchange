@@ -19,3 +19,7 @@ Currently It's just shows how much DAI you get on swaping 1 ETH
 npm install @uniswap/sdk
 
 ```
+
+### Sample
+
+<img src='https://xchange-3qxt3htpg-chotapathak.vercel.app/'>
