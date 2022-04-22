@@ -22,4 +22,4 @@ npm install @uniswap/sdk
 
 ### Sample
 
-<img src='https://xchange-3qxt3htpg-chotapathak.vercel.app/'>
+[Link to Sample](https://xchange-3qxt3htpg-chotapathak.vercel.app/)
